@@ -7,8 +7,7 @@ import Routes from './routes'
 const App = () => {
   return (
     <div>
-      <Navbar />
-      <Routes />
+      <h1>Continuous Integration Rocks</h1>
     </div>
   )
 }
